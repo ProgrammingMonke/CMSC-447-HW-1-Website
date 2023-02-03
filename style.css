@@ -1,0 +1,72 @@
+/*  Intro section  */
+
+.intro {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: x-large;
+}
+
+.my-bio{
+    background-color: rgb(34, 34, 39);
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    padding: 5%;
+
+}
+.my-experiences{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: xx-large;
+    padding: 5%;
+}
+.my-projects{
+    background-color: rgb(34, 34, 39);
+    text-align: center;
+    font-size: xx-large;
+    padding: 5%;
+
+}
+.footer{
+    background-color: rgb(17, 17, 26);
+    text-align: center;
+    color: white;
+    padding: 5%;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bio-btn {
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 50px;
+  }
+  
+.bio-btn:hover {
+    background-color: #ffffff;
+    color: rgb(34, 34, 39);
+}
+.xp-btn {
+    color: rgb(34, 34, 39);
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 50px;
+  }
+  
+.xp-btn:hover {
+    background-color: rgb(34, 34, 39);
+    color: white;
+}
+
+.proj-btn {
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 50px;
+  }
+  
+.proj-btn:hover {
+    background-color: #ffffff;
+    color: rgb(34, 34, 39);
+}
